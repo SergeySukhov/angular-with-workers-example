@@ -1,0 +1,7 @@
+{
+    "turboConsoleLog.delimiterInsideMessage": "|",
+    "turboConsoleLog.includeFileNameAndLineNum": false,
+    "turboConsoleLog.insertEnclosingFunction": false,
+    "turboConsoleLog.logMessagePrefix": "!!",
+    "angular.enable-strict-mode-prompt": false
+}
